@@ -1,0 +1,29 @@
+{
+  "name": "fake-russian",
+  "version": "1.0.0",
+  "description": "A useless text converter to change any normal text into fake russian",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JKirchartz/fake-russian.git"
+  },
+  "keywords": [
+    "botally",
+    "fake",
+    "russian",
+    "cyrillic",
+    "type",
+    "text",
+    "text",
+    "generator"
+  ],
+  "author": "JKirchartz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JKirchartz/fake-russian/issues"
+  },
+  "homepage": "https://github.com/JKirchartz/fake-russian#readme"
+}
