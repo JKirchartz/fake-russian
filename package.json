@@ -1,6 +1,6 @@
 {
   "name": "fake-russian",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A useless text converter to change any normal text into fake russian",
   "main": "index.js",
   "scripts": {
